@@ -1,0 +1,9 @@
+select SUM(PURCHASE_AMOUNT) AS "Total Purchase Amount" from orders;
+
+select AVG(PURCHASE_AMOUNT) AS "Average Purchase Amount" from orders;
+
+select MAX(PURCHASE_AMOUNT) AS "Maximum Purchase Amount" from orders;
+
+select MIN(PURCHASE_AMOUNT) AS "Minimum Purchase Amount" from orders;
+
+select COUNT(distinct SALESMAN_ID) AS "Saleman Count" from orders;
