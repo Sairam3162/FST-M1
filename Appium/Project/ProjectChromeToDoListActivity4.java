@@ -19,7 +19,7 @@ import java.net.URL;
 import java.time.Duration;
 import java.util.List;
 
-public class Activity4 {
+public class ProjectChromeToDoListActivity4 extends ActionBase {
 
 	AndroidDriver driver;
 	WebDriverWait wait;
