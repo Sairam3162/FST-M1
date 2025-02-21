@@ -17,7 +17,7 @@ import io.appium.java_client.AppiumBy;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.options.UiAutomator2Options;
 
-public class Activity6 {
+public class ProjectChromePopUpsActivity6 extends ActionBase {
 
     AndroidDriver driver;
     WebDriverWait wait;
