@@ -23,7 +23,7 @@ import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.options.UiAutomator2Options;
 
-public class Activity1 {
+public class ProjectTaskAppActivity1  {
 
 	AppiumDriver driver;
 	WebDriverWait wait;
